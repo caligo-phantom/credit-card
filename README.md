@@ -34,3 +34,15 @@ Now let’s add that sum (13) to the sum of the digits that weren’t multiplied
 13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20
 
 Yup, the last digit in that sum (20) is a 0, so Random Visa no. is legit!
+
+# Application
+
+![01](https://user-images.githubusercontent.com/90185630/132991025-b24e7fa6-f701-48d3-ac4a-cd77e1b2535e.png)
+
+![02](https://user-images.githubusercontent.com/90185630/132991045-9ffaccaa-568a-4ad1-ab2b-b9e0a6ab4c3d.png)
+
+![03](https://user-images.githubusercontent.com/90185630/132991051-0f1b1410-f858-4c0e-8c52-e9c1493ef8cb.png)
+
+![04](https://user-images.githubusercontent.com/90185630/132991056-fd36c1c6-e5d1-4651-8a6f-475d9f7da3d1.png)
+
+![05](https://user-images.githubusercontent.com/90185630/132991064-3307c4d0-9425-48ee-9fe2-bb94144c0f7b.png)
