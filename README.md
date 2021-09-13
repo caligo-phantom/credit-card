@@ -37,7 +37,7 @@ Yup, the last digit in that sum (20) is a 0, so Random Visa no. is legit!
 
 # Application
 
-![01](https://user-images.githubusercontent.com/90185630/133023331-79595cdf-0716-47d9-8a28-07b5ca9d1dc3.png)
+![01](https://user-images.githubusercontent.com/90185630/133023962-7fbdbc9b-af2f-4fb6-bd36-bf93ec07ed60.png)
 
 ![02](https://user-images.githubusercontent.com/90185630/132991045-9ffaccaa-568a-4ad1-ab2b-b9e0a6ab4c3d.png)
 
